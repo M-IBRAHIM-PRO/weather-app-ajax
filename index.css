@@ -22,6 +22,10 @@ body{
     border-radius: 12px;
     padding: 28px;
 }
+.main-heading{
+    margin-bottom: 20px;
+    text-align: center;
+}
 
 .search-box{
     width: 100%;
